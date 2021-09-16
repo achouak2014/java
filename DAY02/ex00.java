@@ -1,6 +1,5 @@
 import java.util.Scanner ;
-import java.lang.* ; 
-import java.util.*;  
+
 class Main {  
 
 	 static boolean isPower(int n)
