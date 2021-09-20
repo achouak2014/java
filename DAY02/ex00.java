@@ -16,5 +16,7 @@ class Main {
             System.out.println("est une puissance de 2");
         else
             System.out.println("n'est pas une puissance de 2");
-	  } 
+	x.close();
+        } 
+    
 }

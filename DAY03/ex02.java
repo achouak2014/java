@@ -22,4 +22,5 @@ class Main {
 		  System.out.println("False "); 
 
 	}
+	x.close();
 }}

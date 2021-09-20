@@ -11,5 +11,6 @@ class Main {
  
 	  String conver = ent.toLowerCase();
 	 System.out.println(conver);
+ x.close();
 }
 }
